@@ -13,7 +13,7 @@ In this project we explore a dataset of posts to a popular technology site, Hack
 
 We work with a reduced version of the dataset, a random sample of 20,000 of the posts with at least one comment. We are specifically interested in posts with titles beginning with Ask HN or Show HN, which ask the community a question or show them something of interest. We'll compare these two types of post to ask the following:
 
-- Do Ask HN or Show HN posts received more comments on average?
+- Do Ask HN or Show HN posts receive more comments on average?
 - Do posts created at a certain time receive more comments on average?
 
 
