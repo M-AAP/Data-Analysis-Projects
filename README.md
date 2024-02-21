@@ -23,7 +23,7 @@ In this project, we'll be working with a dataset of used cars from eBay Kleinanz
 
 
 ## Finding Heavy Traffic Indicators on I-94 (Python)
-The I-94 Traffic Dataset
+
 In this project we will analyse a dataset about the westbound traffic on the I-94 Interstate highway. The goal of this project is to determine a few indicators of heavy traffic on the I-94, be it weather type, time of day, time of year, etc.
 
 
