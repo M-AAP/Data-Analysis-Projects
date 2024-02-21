@@ -32,6 +32,6 @@ In this project we will analyse a dataset about the westbound traffic on the I-9
 We will explore and analyse a dataset from a telecommunications provider, which provides data on 4250 customers in a specific time period. We aim to identify which customers are likely to churn, or stop using the product.
 
 
-## Profitable App Profiles for the App Store and Google Play Markets
+## Profitable App Profiles for the App Store and Google Play Markets (Python)
 
 We are working as data analysts for a company that builds apps for Android and IOS devices for an English-speaking audience. Our apps are free of charge, so our main source of revenue is in-app ads. Hence the number of users is what determines the revenue for each app - the more users who see and engage with the ads, the better. The goal of this project is to clean and analyse data to help our developers understand what kind of app will attract more users.
