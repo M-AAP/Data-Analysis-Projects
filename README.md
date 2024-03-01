@@ -35,3 +35,9 @@ We will explore and analyse a dataset from a telecommunications provider, which 
 ## Profitable App Profiles for the App Store and Google Play Markets (Python)
 
 We are working as data analysts for a company that builds apps for Android and IOS devices for an English-speaking audience. Our apps are free of charge, so our main source of revenue is in-app ads. Hence the number of users is what determines the revenue for each app - the more users who see and engage with the ads, the better. The goal of this project is to clean and analyse data to help our developers understand what kind of app will attract more users.
+
+## Cleaning and Analysing Employee Exit Surveys
+
+In this project, we'll work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia. We take on the role of a data analyst and our stakeholders want to know the following:
+
+Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
